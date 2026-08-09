@@ -1,0 +1,28 @@
+{
+  "description": "Curated voices in AI security, fraud, threat intel, and trust & safety. rss entries are fetched by the daily pipeline; x/site/li are reference links. Add people via PR — keep the 'why' to one line.",
+  "members": [
+    { "name": "Simon Willison", "org": "Independent", "beat": "AI Security & Red Team", "why": "Canonical chronicler of prompt injection and agent-security failures.", "rss": "https://simonwillison.net/atom/everything/", "site": "https://simonwillison.net", "x": "https://x.com/simonw" },
+    { "name": "Johann Rehberger", "org": "Embrace the Red", "beat": "AI Security & Red Team", "why": "Working exploit chains against production AI agents.", "rss": "https://embracethered.com/blog/index.xml", "site": "https://embracethered.com", "x": "https://x.com/wunderwuzzi23" },
+    { "name": "Nicholas Carlini", "org": "Adversarial ML research", "beat": "AI Security & Red Team", "why": "Most-cited adversarial ML researcher.", "site": "https://nicholas.carlini.com" },
+    { "name": "Ram Shankar Siva Kumar", "org": "Microsoft AI Red Team", "beat": "AI Security & Red Team", "why": "Founded Microsoft's AI Red Team.", "x": "https://x.com/ram_ssk" },
+    { "name": "Kai Greshake", "org": "Researcher", "beat": "AI Security & Red Team", "why": "Co-authored the original indirect prompt injection research.", "site": "https://kai-greshake.de" },
+    { "name": "Joseph Thacker", "org": "AI AppSec", "beat": "AI Security & Red Team", "why": "Practical AI bug-bounty and agent-security findings.", "site": "https://josephthacker.com", "x": "https://x.com/rez0__" },
+    { "name": "Steve Wilson", "org": "OWASP GenAI Project", "beat": "AI Security & Red Team", "why": "Leads the OWASP LLM / Agentic Top 10." },
+    { "name": "Florian Tramèr", "org": "ETH Zürich", "beat": "AI Security & Red Team", "why": "Academic anchor on model extraction and poisoning.", "x": "https://x.com/florian_tramer" },
+    { "name": "Brian Krebs", "org": "KrebsOnSecurity", "beat": "Fraud & Payments", "why": "Deepest public reporting on carding and cybercrime economics.", "rss": "https://krebsonsecurity.com/feed/", "site": "https://krebsonsecurity.com", "x": "https://x.com/briankrebs" },
+    { "name": "Frank McKenna", "org": "Frank on Fraud", "beat": "Fraud & Payments", "why": "Daily fraud-scheme analysis, incl. AI-enabled scams.", "rss": "https://frankonfraud.com/feed/", "site": "https://frankonfraud.com" },
+    { "name": "Karisse Hendrick", "org": "Fraudology podcast", "beat": "Fraud & Payments", "why": "CNP fraud and chargeback ecosystems." },
+    { "name": "Soups Ranjan", "org": "Sardine", "beat": "Fraud & Payments", "why": "AI models for payment fraud and account takeover.", "x": "https://x.com/soupsranjan" },
+    { "name": "PJ Rohall", "org": "About-Fraud", "beat": "Fraud & Payments", "why": "Maps the anti-fraud practitioner landscape." },
+    { "name": "Kevin Beaumont", "org": "DoublePulsar", "beat": "Cyber Threat Intel", "why": "Fastest credible read on active exploitation.", "rss": "https://doublepulsar.com/feed", "site": "https://doublepulsar.com", "x": "https://x.com/GossiTheDog" },
+    { "name": "Katie Nickels", "org": "Intel analysis / SANS", "beat": "Cyber Threat Intel", "why": "Threat-intel tradecraft and ATT&CK.", "x": "https://x.com/likethecoins" },
+    { "name": "Ben Nimmo", "org": "OpenAI threat intel", "beat": "Cyber Threat Intel", "why": "Reporting on state actors abusing AI models." },
+    { "name": "The Grugq", "org": "Independent", "beat": "Cyber Threat Intel", "why": "OPSEC and intelligence-tradecraft commentary.", "x": "https://x.com/thegrugq" },
+    { "name": "Dmitri Alperovitch", "org": "Silverado", "beat": "Cyber Threat Intel", "why": "Geopolitics of cyber and AI competition.", "x": "https://x.com/DAlperovitch" },
+    { "name": "Lesley Carhart", "org": "Dragos", "beat": "Cyber Threat Intel", "why": "DFIR reality checks.", "x": "https://x.com/hacks4pancakes" },
+    { "name": "Alex Stamos", "org": "SentinelOne / Stanford", "beat": "Trust & Safety", "why": "Most prominent T&S-to-security crossover voice.", "x": "https://x.com/alexstamos" },
+    { "name": "Mike Masnick", "org": "Techdirt", "beat": "Trust & Safety", "why": "Platform-governance analysis the T&S community reads.", "rss": "https://www.techdirt.com/feed/", "site": "https://www.techdirt.com", "x": "https://x.com/mmasnick" },
+    { "name": "Rachel Tobac", "org": "SocialProof Security", "beat": "Trust & Safety", "why": "Social engineering and account-takeover techniques.", "x": "https://x.com/RachelTobac" },
+    { "name": "Troy Hunt", "org": "Have I Been Pwned", "beat": "Trust & Safety", "why": "Credential-breach ecosystem.", "rss": "https://www.troyhunt.com/rss/", "site": "https://www.troyhunt.com", "x": "https://x.com/troyhunt" }
+  ]
+}
