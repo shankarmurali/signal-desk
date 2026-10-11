@@ -1,31 +1,22 @@
 # Signal Desk — Daily Brief
 
-_Generated 2026-10-10 17:56 UTC · window: last 48h · 18 roster items_
+_Generated 2026-10-11 18:17 UTC · window: last 48h · 9 roster items_
 
 ## From the roster
 
+### AI Security & Red Team
+
+- **Simon Willison** · Oct 11 — [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)
+- **Simon Willison** · Oct 10 — [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/)
+- **Simon Willison** · Oct 10 — [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/)
+- **Simon Willison** · Oct 09 — [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/)
+
 ### Trust & Safety
 
+- **Mike Masnick** · Oct 10 — [This Week In Techdirt History: October 4th – 10th](https://www.techdirt.com/2026/10/10/this-week-in-techdirt-history-october-4th-10th/)
 - **Mike Masnick** · Oct 10 — [Polling: Americans Uncertain On RFK Jr.’s Vaccine Stance, Very Certain That They Hate Him](https://www.techdirt.com/2026/10/09/polling-americans-uncertain-on-rfk-jr-s-vaccine-stance-very-certain-that-they-hate-him/)
 - **Mike Masnick** · Oct 09 — [US Postal Service To Start Exploring Its Always-On Surveillance Options](https://www.techdirt.com/2026/10/09/us-postal-service-to-start-exploring-its-always-on-surveillance-options/)
 - **Mike Masnick** · Oct 09 — [Ctrl-Alt-Speech: Like Herding Chats](https://www.techdirt.com/2026/10/09/ctrl-alt-speech-like-herding-chats/)
-- **Mike Masnick** · Oct 09 — [Alabama’s TikTok Settlement Comes With An Affiliate Program For Getting Other AGs To Go After TikTok](https://www.techdirt.com/2026/10/09/alabamas-tiktok-settlement-comes-with-an-affiliate-program-for-getting-other-ags-to-go-after-tiktok/)
-- **Mike Masnick** · Oct 09 — [Daily Deal: The Essential MATLAB & LabVIEW Mega Bundle](https://www.techdirt.com/2026/10/09/daily-deal-the-essential-matlab-labview-mega-bundle-3/)
-- **Mike Masnick** · Oct 09 — [Hey Platforms: Your Violent Content Policies Are About To Meet The Pentagon’s Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
-- **Mike Masnick** · Oct 09 — [Cable Giants Ironically Plan To Sue FCC For Illegally Killing Media Ownership Limits](https://www.techdirt.com/2026/10/09/cable-giants-ironically-plan-to-sue-fcc-for-illegally-killing-media-ownership-limits/)
-- **Mike Masnick** · Oct 09 — [Pete Hegseth Pretends Pentagon’s New ‘Religious Affairs’ Office Isn’t Christian Nationalism](https://www.techdirt.com/2026/10/08/pete-hegseth-pretends-pentagons-new-religious-affairs-office-isnt-christian-nationalism/)
-- **Mike Masnick** · Oct 08 — [The Metric Is Not The Mission: The Illusion Of Knowing Us](https://www.techdirt.com/2026/10/08/the-metric-is-not-the-mission-the-illusion-of-knowing-us/)
-- **Mike Masnick** · Oct 08 — [DNC Sues Trump For Wasting $20 Million In Taxpayer Dollars On Ineffective Midterm Propaganda](https://www.techdirt.com/2026/10/08/dnc-sues-trump-for-wasting-20-million-in-taxpayer-dollars-on-ineffective-midterm-propaganda/)
-
-### AI Security & Red Team
-
-- **Simon Willison** · Oct 10 — [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/)
-- **Simon Willison** · Oct 09 — [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/)
-- **Simon Willison** · Oct 09 — [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)
-- **Simon Willison** · Oct 09 — [A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/)
-- **Simon Willison** · Oct 09 — [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/)
-- **Simon Willison** · Oct 08 — [ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/)
-- **Simon Willison** · Oct 08 — [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)
 
 ### Fraud & Payments
 
