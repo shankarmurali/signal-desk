@@ -1,23 +1,27 @@
 # Signal Desk — Daily Brief
 
-_Generated 2026-10-18 16:41 UTC · window: last 48h · 9 roster items_
+_Generated 2026-10-19 19:24 UTC · window: last 48h · 10 roster items_
 
 ## From the roster
 
-### AI Security & Red Team
-
-- **Simon Willison** · Oct 17 — [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/)
-- **Simon Willison** · Oct 17 — [web-edit 0.1a2](https://simonwillison.net/2026/Oct/17/web-edit/)
-- **Simon Willison** · Oct 16 — [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/)
-
 ### Trust & Safety
 
-- **Mike Masnick** · Oct 17 — [This Week In Techdirt History: October 11th – 17th](https://www.techdirt.com/2026/10/17/this-week-in-techdirt-history-october-11th-17th/)
-- **Mike Masnick** · Oct 17 — [MLB Plans To Play Stupid Games With Its Website Again In Upcoming Lockout](https://www.techdirt.com/2026/10/16/mlb-plans-to-play-stupid-games-with-its-website-again-in-upcoming-lockout/)
-- **Mike Masnick** · Oct 16 — [Something Else To Look Forward To: AI Worms](https://www.techdirt.com/2026/10/16/something-else-to-look-forward-to-ai-worms/)
-- **Mike Masnick** · Oct 16 — [Ctrl-Alt-Speech: No Good Feed Goes Unpunished](https://www.techdirt.com/2026/10/16/ctrl-alt-speech-no-good-feed-goes-unpunished/)
-- **Mike Masnick** · Oct 16 — [11 Or 13 Justices Start An Arms Race. 100 Justices Might Actually End It.](https://www.techdirt.com/2026/10/16/11-or-13-justices-start-an-arms-race-100-justices-might-actually-end-it/)
-- **Mike Masnick** · Oct 16 — [Daily Deal: The Ultimate Web Coding for Everyone Bundle](https://www.techdirt.com/2026/10/16/daily-deal-the-ultimate-web-coding-for-everyone-bundle/)
+- **Mike Masnick** · Oct 19 — [‘We Didn’t Do This Perfectly’: American Fork Police Chief’s Understatement Now Anchors A Civil Rights Lawsuit By Reckless Ben’s Helpers](https://www.techdirt.com/2026/10/19/we-didnt-do-this-perfectly-american-fork-police-chiefs-understatement-now-anchors-a-civil-rights-lawsuit-by-reckless-bens-helpers/)
+- **Mike Masnick** · Oct 19 — [Daily Deal: Soundfreaq Sound Spot II Bluetooth Speaker](https://www.techdirt.com/2026/10/19/daily-deal-soundfreaq-sound-spot-ii-bluetooth-speaker-4/)
+- **Mike Masnick** · Oct 19 — [Canadian YouTuber Visited By Cops After Building Mock Flock To Track Cop Cars](https://www.techdirt.com/2026/10/19/canadian-youtuber-visited-by-cops-after-building-mock-flock-to-track-cop-cars/)
+- **Mike Masnick** · Oct 19 — [Whoops: Grok Bot Spills Tech CEO’s Bank Data In Public Slack](https://www.techdirt.com/2026/10/19/whoops-grok-bot-spills-tech-ceos-bank-data-in-public-slack/)
+- **Troy Hunt** · Oct 19 — [Weekly Update 526: Building HIBP AI/SI First](https://www.troyhunt.com/weekly-update-526/)
+- **Mike Masnick** · Oct 18 — [Funniest/Most Insightful Comments Of The Week At Techdirt](https://www.techdirt.com/2026/10/18/funniest-most-insightful-comments-of-the-week-at-techdirt-230/)
+
+### Fraud & Payments
+
+- **Brian Krebs** · Oct 19 — [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+
+### AI Security & Red Team
+
+- **Simon Willison** · Oct 18 — [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)
+- **Simon Willison** · Oct 18 — [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)
+- **Simon Willison** · Oct 17 — [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/)
 
 ---
 _Built with [Signal Desk](https://github.com/). Roster in `roster.json` — PRs welcome._
