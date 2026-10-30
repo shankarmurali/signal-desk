@@ -1,31 +1,32 @@
 # Signal Desk — Daily Brief
 
-_Generated 2026-10-29 19:05 UTC · window: last 48h · 17 roster items_
+_Generated 2026-10-30 18:43 UTC · window: last 48h · 15 roster items_
 
 ## From the roster
 
 ### Trust & Safety
 
+- **Mike Masnick** · Oct 30 — [Adam Schiff Spent Years Defending Section 702. Now He’s Accusing The Administration Of Hiding Its Abuses.](https://www.techdirt.com/2026/10/30/adam-schiff-spent-years-defending-section-702-now-hes-accusing-the-administration-of-hiding-its-abuses/)
+- **Mike Masnick** · Oct 30 — [Daily Deal: Build Your Own GPS Tracking System with Raspberry Pi](https://www.techdirt.com/2026/10/30/daily-deal-build-your-own-gps-tracking-system-with-raspberry-pi/)
+- **Mike Masnick** · Oct 30 — [MapQuest Adds New ‘Surveillance Layer’ That Shows Locations Of ALPR Cameras](https://www.techdirt.com/2026/10/30/mapquest-adds-new-surveillance-layer-that-shows-locations-of-alpr-cameras/)
+- **Mike Masnick** · Oct 30 — [The Trump Admin Isn’t Bright Enough To ‘Ban’ Foreign Robots And Drones, And The Press Should Stop Pretending Otherwise](https://www.techdirt.com/2026/10/30/the-trump-admin-isnt-bright-enough-to-ban-foreign-robots-and-drones-and-the-press-should-stop-pretending-otherwise/)
+- **Mike Masnick** · Oct 30 — [Study: America’s Measles Problem Is Domestic, Not RFK Jr.’s Dirty Foreigners](https://www.techdirt.com/2026/10/29/study-americas-measles-problem-is-domestic-not-rfk-jr-s-dirty-foreigners/)
+- **Mike Masnick** · Oct 29 — [Your Diary Has A Creditor: What Character.ai’s Bankruptcy Does To Freedom Of Thought](https://www.techdirt.com/2026/10/29/your-diary-has-a-creditor-what-character-ais-bankruptcy-does-to-freedom-of-thought/)
+- **Mike Masnick** · Oct 29 — [Court Tosses Trump’s Clumsy Attempt To Scuttle Musk Memphis Data Center Pollution Lawsuit](https://www.techdirt.com/2026/10/29/court-tosses-trumps-clumsy-attempt-to-scuttle-musk-memphis-data-center-pollution-lawsuit/)
 - **Mike Masnick** · Oct 29 — [The Streisand Effect Case Might Have Played Out Differently In Germany](https://www.techdirt.com/2026/10/29/the-streisand-effect-case-might-have-played-out-differently-in-germany/)
 - **Mike Masnick** · Oct 29 — [Daily Deal: Interactive Self-Rotating Cat Toy Ball](https://www.techdirt.com/2026/10/29/daily-deal-interactive-self-rotating-cat-toy-ball-2/)
 - **Mike Masnick** · Oct 29 — [Fifth Circuit Flips Earlier Ruling, Once Again Declares Migrants Have No Due Process Rights](https://www.techdirt.com/2026/10/29/fifth-circuit-flips-earlier-ruling-once-again-declares-migrants-have-no-due-process-rights/)
-- **Mike Masnick** · Oct 29 — [Tech, Telecom Scholars Tell Gavin Newsom To Find His Spine](https://www.techdirt.com/2026/10/29/tech-telecom-scholars-tell-gavin-newsom-to-find-his-spine/)
-- **Mike Masnick** · Oct 29 — [Tim Sweeney Would Be Well Served To Stop Talking About AI Right About Now](https://www.techdirt.com/2026/10/28/tim-sweeney-would-be-well-served-to-stop-talking-about-ai-right-about-now/)
-- **Mike Masnick** · Oct 28 — [The Metric Is Not The Mission: The Full Paper](https://www.techdirt.com/2026/10/28/the-metric-is-not-the-mission-the-full-paper/)
-- **Mike Masnick** · Oct 28 — [Latest Drop By Distributed Denial of Secrets (DDoS) Contains Contact Info For 40,000 DHS Employees](https://www.techdirt.com/2026/10/28/latest-drop-by-distributed-denial-of-secrets-ddos-contains-contact-info-for-40000-dhs-employees/)
-- **Mike Masnick** · Oct 28 — [Never Mind The Deepfakes, Chatbots Have To Deal With Election Lies Being Free, While Truth Is Paywalled](https://www.techdirt.com/2026/10/28/never-mind-the-deepfakes-chatbots-have-to-deal-with-election-lies-being-free-while-truth-is-paywalled/)
-- **Mike Masnick** · Oct 28 — [Daily Deal: JavaScript Crash Course](https://www.techdirt.com/2026/10/28/daily-deal-javascript-crash-course/)
-- **Mike Masnick** · Oct 28 — [Trump DOJ Says It Won’t Investigate Trump DOJ’s Reflecting Pool Vandalism Arrests](https://www.techdirt.com/2026/10/28/trump-doj-says-it-wont-investigate-trump-dojs-reflecting-pool-vandalism-arrests/)
+
+### Cyber Threat Intel
+
+- **Kevin Beaumont** · Oct 30 — [Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2?source=rss----8343faddf0ec---4)
 
 ### AI Security & Red Team
 
+- **Simon Willison** · Oct 29 — [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
 - **Simon Willison** · Oct 29 — [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/)
 - **Simon Willison** · Oct 29 — [Quoting Ben Hylak](https://simonwillison.net/2026/Oct/29/ben-hylak/)
 - **Simon Willison** · Oct 28 — [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
-- **Simon Willison** · Oct 28 — [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
-- **Simon Willison** · Oct 28 — [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
-- **Simon Willison** · Oct 28 — [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/)
-- **Simon Willison** · Oct 27 — [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
 
 ---
 _Built with [Signal Desk](https://github.com/). Roster in `roster.json` — PRs welcome._
